@@ -15,7 +15,7 @@ export default function NewMsgPost({ post }) {
   return (
     <article className="newmsg-post">
       <header className="newmsg-post-head" style={{ justifyContent: "space-between" }}>
-        <span className="newmsg-by">by your beloved</span>
+        <span className="newmsg-by">by Ivan</span>
         <span className="newmsg-time">{timeAgo(post.createdAt)}</span>
       </header>
       <p className="newmsg-text">{post.text}</p>
