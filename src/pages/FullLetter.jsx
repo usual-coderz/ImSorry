@@ -11,8 +11,8 @@ return (
   <div className="letter-closing">
     <p>Abh ye dekh kr maaf krdena 😞🖐️</p>
     <p>
-      Laadli bahut mehnat lagi hai bnane mai, tu bnkr dene wali thi pr
-      maine bnadiya. Abh tu padhai kr aur soja 🖐️
+      Laadli bahut mehnat lagi hai bnane mai, tu bnkr dene wali thi
+      pr maine bnadiya. Abh tu padhai kr aur soja 🖐️
     </p>
   </div>
 </div>
