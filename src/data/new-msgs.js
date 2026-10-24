@@ -6,7 +6,7 @@ export const newMsgs = [
   {
     id: "2026-10-24-sorry",
     text: "....",
-    createdAt: "2026-10-07T22:45:00+05:45",
+    createdAt: "2026-10-24T22:45:00+05:45",
     author: "Ivan",
   },
 ];
