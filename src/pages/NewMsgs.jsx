@@ -13,7 +13,7 @@ export default function NewMsgs() {
       <SideNav />
       <article className="full-letter-inner newmsgs-inner">
         <p className="letter-kicker">New messages</p>
-        <h1 className="letter-title">Flying kisses & more</h1>
+        <h1 className="letter-title">Soja abh bahut zyada tareef krdi teri 🖐️</h1>
 
         <div className="newmsgs-feed">
           {posts.map((p) => (
