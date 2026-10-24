@@ -6,7 +6,7 @@ const items = [
   { to: "/home", label: "Home — Hogwarts", Icon: Home },
   { to: "/full-letter", label: "Letter — Hedwig", Icon: Mail },
   { to: "/new-msgs", label: "New messages", Icon: Bell },
-  { to: "/chat", label: "Owl Post — Hogwarts ⚡", Icon: MessageCircle },
+  { to: "/chat", label: "Ivan", Icon: MessageCircle },
   { to: "/icons", label: "Icons — Full SVG sets", Icon: LayoutGrid },
 ];
 
