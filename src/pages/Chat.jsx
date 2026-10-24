@@ -142,8 +142,8 @@ export default function Chat() {
               </svg>
             </div>
             <div className="chat-header-info">
-              <strong>Owl Post</strong>
-              <span>Hogwarts</span>
+              <strong>Ivan</strong>
+              <span>Ahad</span>
             </div>
           </div>
           <nav className="chat-header-nav" aria-label="Chat navigation">
