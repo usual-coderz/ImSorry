@@ -5,9 +5,9 @@
 export const newMsgs = [
   {
     id: "2026-09-07-flying-kiss",
-    text: "How did you like that flying kiss babe? ❤️",
+    text: "....",
     createdAt: "2026-09-07T22:45:00+05:45",
-    author: "Sin",
+    author: "Ivan",
   },
 ];
 
