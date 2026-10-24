@@ -1,8 +1,8 @@
 export const initialChatMsgs = [
   {
     id: "c1",
-    from: "Sin",
-    text: "Comming soon just for you! ❤️",
+    from: "Ivan",
+    text: "Sorry ❤️",
     at: new Date().toISOString(),
   },
 ];
