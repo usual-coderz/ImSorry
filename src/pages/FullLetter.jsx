@@ -1,12 +1,17 @@
-<div className="full-letter-shell">
-  <ParticleBackground subtle />
-  <SideNav />
+import { Link } from "react-router-dom";
+import SideNav from "../components/SideNav.jsx";
+import ParticleBackground from "../components/ParticleBackground.jsx";
+import "../styles/full-letter.css";
 
-  <article className="full-letter-inner">
-    <p className="letter-closing">
-      Abh ye dekh kr maaf krdena 😞🖐️
-    </p>
+export default function FullLetter() {
+  return (
+    <div className="full-letter-shell">
+      <ParticleBackground subtle />
+      <SideNav />
 
-    {/* Your existing letter content */}
-  </article>
-</div>
+      <p className="letter-closing">
+        Abh ye dekh kr maaf krdena 😞🖐️
+      </p>
+    </div>
+  );
+}
