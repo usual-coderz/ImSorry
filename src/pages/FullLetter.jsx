@@ -9,4 +9,4 @@ export default function FullLetter() {
       <ParticleBackground subtle />
       <SideNav />
       <p className="letter-closing">Abh ye dekh kr maaf krdena 😞🖐️</p>
-      <article className="full-letter-inner">
+      <article className="full-letter-inner"> 
